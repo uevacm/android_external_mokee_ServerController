@@ -1208,6 +1208,12 @@ $hardware_info = array(
                      'battery' => '2900 mAh',
                      'display' => '5.0 inch, 1920x1080 pixel(441ppi)',
                      'cpuarch' => 'ARM'),
+    'ether' => array('cpu' => 'Qualcomm® Snapdragon™ 808',
+                     'ram' => '3GB',
+                     'rom' => '32GB',
+                     'battery' => '2680 mAh',
+                     'display' => '5.2 inch, 1920x1080 pixel(424ppi)',
+                     'cpuarch' => 'ARM'),
 );
 
 foreach ($devices_info as $k => $val) {
